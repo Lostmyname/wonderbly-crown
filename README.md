@@ -4,7 +4,7 @@ For all your excessive command line branding needs.
 
 ### Usage
 ```js
-import wblyCrown from 'wonderbly-crown';
+import wblyCrown from '@lostmyname/wonderbly-crown';
 console.log(wblyCrown);
 ```
 
