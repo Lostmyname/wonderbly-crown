@@ -3,6 +3,7 @@
   "description": "ASCII Wonderbly logo",
   "version": "1.0.1",
   "main": "index.js",
+  "typings": "index.d.ts",
   "author": "@lostmyname",
   "license": "ISC"
 }
