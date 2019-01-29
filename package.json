@@ -1,7 +1,7 @@
 {
   "name": "@lostmyname/wonderbly-crown",
   "description": "ASCII Wonderbly logo",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "main": "index.js",
   "typings": "index.d.ts",
   "author": "@lostmyname",
