@@ -5,9 +5,9 @@ const wblyCrown = `
                               ${reset}
          ${dark}\\        ${light}_${dark}        /  ${reset}
          ${dark}WW\\    ${light}/MMM\\${dark}    /WW  ${reset}
-         ${dark}WWWW\\${light}/MMMMMMM\\${dark}/WWWW  ${reset}
+         ${dark}WWWW\\${light}/MMVANMM\\${dark}/WWWW  ${reset}
          ${dark}WWW${light}/MMMMMMMMMMM\\${dark}WWW  ${reset}
-         ${dark}W${light}/MMMMMMMMMMMMMMM\\${dark}W  ${reset}
+         ${dark}W${light}/MMBEEPMMMBEEPMM\\${dark}W  ${reset}
                               ${reset}`;
 
 module.exports = wblyCrown;
