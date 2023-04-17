@@ -1,13 +1,14 @@
-const dark = '\x1b[38;5;29m';
-const light = '\x1b[38;5;115m';
+const color = '\x1b[38;5;195m';
 const reset = '\x1b[0m';
-const wblyCrown = `
-                              ${reset}
-         ${dark}\\        ${light}_${dark}        /  ${reset}
-         ${dark}WW\\    ${light}/MMM\\${dark}    /WW  ${reset}
-         ${dark}WWWW\\${light}/MMVANMM\\${dark}/WWWW  ${reset}
-         ${dark}WWW${light}/MMMMMMMMMMM\\${dark}WWW  ${reset}
-         ${dark}W${light}/MMBEEPMMMBEEPMM\\${dark}W  ${reset}
-                              ${reset}`;
+const wblyCrown = `${color}
+
+         .                      .
+         &&         &&         &&
+         &&&&(   &&&&&&&%   &&&&&
+         &AT&&&&&&&&&&&&&&&&&&DN&
+         &&&&&&&&&&&GW&&&&&&&&&&&
+         &&&&&&&&&&&&&&&&&&&&&&&&
+
+${reset}`;
 
 module.exports = wblyCrown;
