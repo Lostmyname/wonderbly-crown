@@ -11,5 +11,4 @@ const wblyCrown = `${color}
 
 ${reset}`;
 
-console.log(wblyCrown)
 module.exports = wblyCrown;
