@@ -3,12 +3,13 @@ const reset = '\x1b[0m';
 const wblyCrown = `${color}
 
          .                      .
-         &&         &&         &&
-         &&&&(   &&&&&&&%   &&&&&
+         &&.       .&&.       .&&
+         &&&&.   &&&GW&&&   .&&&&
          &AT&&&&&&&&&&&&&&&&&&DN&
-         &&&&&&&&&&&GW&&&&&&&&&&&
+         &WONDERBLY&&&LOSTMYNAME&
          &&&&&&&&&&&&&&&&&&&&&&&&
 
 ${reset}`;
 
+console.log(wblyCrown)
 module.exports = wblyCrown;
